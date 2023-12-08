@@ -10,7 +10,11 @@ $ git clone https://github.com/DataRohit/AI-Snake-Game.git
 ### Step 2: Setup Virtual Environment
 ```bash
 $ python -m venv venv
+```
+```bash
 $ source venv/Scripts/activate
+```
+```bash
 $ pip install -r requirements.txt
 ```
 
