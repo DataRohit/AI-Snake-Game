@@ -19,3 +19,5 @@ $ pip install -r requirements.txt
 ```
 
 ### Step 3: Run the Code in Jupyter Notebook and you will see the output. It takes around 10 - 15 minutes for the agent to get better at game.
+
+**Credits [freecodecamp](https://www.youtube.com/@freecodecamp)**
